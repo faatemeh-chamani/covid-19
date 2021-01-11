@@ -1,2 +1,3 @@
 # covid-19
-cover-19-detection|Machine-Learning
+# python
+covid-19-detection|Machine-Learning
